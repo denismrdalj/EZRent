@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "239838549059",
-    "project_id": "ezrent-dd254",
-    "storage_bucket": "ezrent-dd254.appspot.com"
+    "project_number": "36461722100",
+    "project_id": "rentacar-3d2c3",
+    "storage_bucket": "rentacar-3d2c3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:239838549059:android:f204f8f90f18893f7470f6",
+        "mobilesdk_app_id": "1:36461722100:android:3a5b1404b2f49f8a6821a1",
         "android_client_info": {
-          "package_name": "com.example.myapplication"
+          "package_name": "com.example.rent"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "REDACTED"
+          "current_key": "AIzaSyDqofd3jSXtzbJORZg8T9EtGSUQaUoxLDA"
         }
       ],
       "services": {
